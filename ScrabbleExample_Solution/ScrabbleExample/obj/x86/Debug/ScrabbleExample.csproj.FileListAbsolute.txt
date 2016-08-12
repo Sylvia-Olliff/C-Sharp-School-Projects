@@ -1,0 +1,6 @@
+C:\Users\JOEOLL2541\Documents\Visual Studio 2010\Projects\ScrabbleExample_Solution\ScrabbleExample\bin\Debug\ScrabbleExample.exe
+C:\Users\JOEOLL2541\Documents\Visual Studio 2010\Projects\ScrabbleExample_Solution\ScrabbleExample\bin\Debug\ScrabbleExample.pdb
+C:\Users\JOEOLL2541\Documents\Visual Studio 2010\Projects\ScrabbleExample_Solution\ScrabbleExample\obj\x86\Debug\ScrabbleExample.exe
+C:\Users\JOEOLL2541\Documents\Visual Studio 2010\Projects\ScrabbleExample_Solution\ScrabbleExample\obj\x86\Debug\ScrabbleExample.pdb
+C:\Users\TITANJC\Documents\Visual Studio 2015\Projects\ScrabbleExample_Solution\ScrabbleExample\obj\x86\Debug\ScrabbleExample.exe
+C:\Users\TITANJC\Documents\Visual Studio 2015\Projects\ScrabbleExample_Solution\ScrabbleExample\obj\x86\Debug\ScrabbleExample.pdb
